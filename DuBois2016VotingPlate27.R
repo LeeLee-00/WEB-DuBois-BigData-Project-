@@ -7,12 +7,10 @@ library(openxlsx)
 
 ###########Cleaning the Data#########################
 
-
 #Setting work directory
 setwd("E:/W.E.B Du Bois")
 
-#Loading Census data
-#censusData <- read_xlsx("E:/W.E.B Du Bois/Data/Selected Datasect 4B - 2020.xlsx")
+#Loading Census data 2016
 urlToRead <- "https://www2.census.gov/programs-surveys/cps/tables/p20/580/table04b.xlsx"
 testFrame <- read.xlsx(urlToRead)
 
@@ -109,6 +107,8 @@ str(testFrame)
 
 #################Pulling out Black and White Population to organize the visualization#################################
 
+### Adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
+
 #Black American and White Population only 
 
 BlackWhitePopulation <- testFrame %>% 
@@ -190,7 +190,10 @@ df$order <- factor(df$order, levels = c("B Voted", "B population", "B Registered
         
         #Used to blank out label names.
         legend.position = "none") +
+  
     
+    ### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge) ###
+      
     ##Graph Title
     labs(title = "2016 REPORTED VOTING AND REGISTRATION OF BLACKS AND WHITES IN THE U.S.", color = alpha("black",0.8))  
   

@@ -7,15 +7,10 @@ library(openxlsx)
 
 ###########Cleaning the Data#########################
 
-#Installing and loading R package
-#install.packages("readxl")
-library(openxlsx)
-
 #Setting work directory
 setwd("E:/W.E.B Du Bois")
 
-#Loading Census data
-#censusData <- read_xlsx("E:/W.E.B Du Bois/Data/Selected Datasect 4B - 2020.xlsx")
+#Loading Census data 2020
 urlToRead <- "https://www2.census.gov/programs-surveys/cps/tables/p20/585/table04b.xlsx"
 testFrame <- read.xlsx(urlToRead)
 
@@ -112,6 +107,8 @@ str(testFrame)
 
 #################Pulling out Black and White Population to organize the visualization#################################
 
+### Adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
+
 #Black American and White Population only 
 
 BlackWhitePopulation <- testFrame %>% 
@@ -194,8 +191,11 @@ PlotGraph <-  ggplot(df) +
         #Used to blank out label names.
         legend.position = "none") +
   
+  
+  ### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge) ###
+  
   ##Graph Title
-  labs(title = "2016 REPORTED VOTING AND REGISTRATION OF BLACKS AND WHITES IN THE U.S.", color = alpha("black",0.8))  
+  labs(title = "2020 REPORTED VOTING AND REGISTRATION OF BLACKS AND WHITES IN THE U.S.", color = alpha("black",0.8))  
 
 #Colored Circles for Labels.
 circle1 <- grid::circleGrob(gp = grid::gpar(fill = "#EE3B3B")) #Red
