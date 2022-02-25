@@ -44,18 +44,3 @@ top_n(BlackPopulation, n = 15, Population) %>%
 ### Code above adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
 
 
-
-##### Testing for other states ##############
-
-# Code adapted from https://stackoverflow.com/questions/51338752/how-to-plot-top-2-rows-vs-others-in-r-ggplot-pie-chart
-
-
-# OtherStatesTest <- BlackPopulation %>%
-#   group_by(State) %>%
-#   summarize(others = length(State)) %>%
-#   ungroup %>%
-#   arrange(desc(others)) %>%
-#   mutate(label = case_when(row_number() <= 15 ~ State,
-#                            row_number() > 15 ~ 'all other states'))
-# 
-
