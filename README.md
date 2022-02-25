@@ -1,6 +1,7 @@
 # Authors: 
 #   Noel, Lee Joey
 #   Williams, Christie Dawn
+#   Friedman, Alon
          
          
 # This work utilizes Du Bois’s visual catalog 14 diverse that illustrate today's big data 2020 voting data.
