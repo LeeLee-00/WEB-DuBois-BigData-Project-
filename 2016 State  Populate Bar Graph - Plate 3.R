@@ -92,6 +92,8 @@ BlkPop2016 <- BlkPop2016[-1, ]
 
 ## Bar Graph Black Population by state ----
 
+### Adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
+
 BlackPopBar2016 <- top_n(BlkPop2016, n = 15, Population) %>%
   ggplot(., aes(x = reorder(State, Population), y = Population)) +
   geom_bar(
@@ -123,3 +125,5 @@ BlackPopBar2016 <- top_n(BlkPop2016, n = 15, Population) %>%
 
 # Call Plot
 BlackPopBar2016
+
+### Code above adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
