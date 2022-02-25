@@ -1,0 +1,573 @@
+"","State","SexRaceHispanic","TotalPopulation","Registered","Voted"
+"1","US","Total",252274,168308,154628
+"2",NA,"Male",121870,79340,72474
+"3",NA,"Female",130404,88968,82154
+"4",NA,"White alone",195227,134889,124301
+"5",NA,"White non-Hispanic alone",157442,118389,109830
+"6",NA,"Black alone",32219,20844,18922
+"7",NA,"Asian alone",16094,7354,6881
+"8",NA,"Hispanic (of any race)",42468,18719,16459
+"9",NA,"White alone or in combination",199610,137710,126753
+"10",NA,"Black alone or in combination",34471,22241,20152
+"11",NA,"Asian alone or in combination",17273,8157,7593
+"12","ALABAMA","Total",3769,2527,2247
+"13",NA,"Male",1780,1187,1038
+"14",NA,"Female",1990,1340,1209
+"15",NA,"White alone",2657,1860,1647
+"16",NA,"White non-Hispanic alone",2587,1825,1617
+"17",NA,"Black alone",973,590,533
+"18",NA,"Asian alone",55,23,21
+"19",NA,"Hispanic (of any race)",79,35,30
+"20",NA,"White alone or in combination",2692,1883,1665
+"21",NA,"Black alone or in combination",988,603,543
+"22",NA,"Asian alone or in combination",58,26,21
+"23","ALASKA","Total",528,383,330
+"24",NA,"Male",269,195,165
+"25",NA,"Female",259,188,165
+"26",NA,"White alone",345,265,243
+"27",NA,"White non-Hispanic alone",325,251,230
+"28",NA,"Black alone",17,11,8
+"29",NA,"Asian alone",35,18,17
+"30",NA,"Hispanic (of any race)",28,21,17
+"31",NA,"White alone or in combination",375,287,259
+"32",NA,"Black alone or in combination",18,12,8
+"33",NA,"Asian alone or in combination",43,24,22
+"34","ARIZONA","Total",5638,3878,3649
+"35",NA,"Male",2739,1784,1653
+"36",NA,"Female",2899,2095,1996
+"37",NA,"White alone",4840,3328,3152
+"38",NA,"White non-Hispanic alone",3140,2480,2385
+"39",NA,"Black alone",279,205,179
+"40",NA,"Asian alone",206,111,107
+"41",NA,"Hispanic (of any race)",1800,895,814
+"42",NA,"White alone or in combination",4966,3422,3242
+"43",NA,"Black alone or in combination",344,266,235
+"44",NA,"Asian alone or in combination",226,130,127
+"45","ARKANSAS","Total",2283,1361,1186
+"46",NA,"Male",1101,641,546
+"47",NA,"Female",1182,720,640
+"48",NA,"White alone",1867,1139,1014
+"49",NA,"White non-Hispanic alone",1744,1111,988
+"50",NA,"Black alone",336,186,146
+"51",NA,"Asian alone",24,14,11
+"52",NA,"Hispanic (of any race)",134,30,29
+"53",NA,"White alone or in combination",1900,1153,1023
+"54",NA,"Black alone or in combination",348,193,148
+"55",NA,"Asian alone or in combination",25,16,12
+"56","CALIFORNIA","Total",30342,18001,16893
+"57",NA,"Male",14786,8549,8012
+"58",NA,"Female",15556,9452,8882
+"59",NA,"White alone",21941,13508,12628
+"60",NA,"White non-Hispanic alone",12090,9133,8711
+"61",NA,"Black alone",1947,1249,1173
+"62",NA,"Asian alone",5072,2491,2370
+"63",NA,"Hispanic (of any race)",11165,5014,4539
+"64",NA,"White alone or in combination",22586,13924,13024
+"65",NA,"Black alone or in combination",2139,1371,1295
+"66",NA,"Asian alone or in combination",5405,2665,2529
+"67","COLORADO","Total",4525,2993,2837
+"68",NA,"Male",2254,1452,1355
+"69",NA,"Female",2271,1541,1482
+"70",NA,"White alone",4001,2733,2606
+"71",NA,"White non-Hispanic alone",3267,2396,2316
+"72",NA,"Black alone",186,102,96
+"73",NA,"Asian alone",152,57,50
+"74",NA,"Hispanic (of any race)",854,374,315
+"75",NA,"White alone or in combination",4123,2801,2658
+"76",NA,"Black alone or in combination",203,118,113
+"77",NA,"Asian alone or in combination",171,72,65
+"78","CONNECTICUT","Total",2777,1850,1681
+"79",NA,"Male",1333,843,767
+"80",NA,"Female",1444,1008,915
+"81",NA,"White alone",2197,1543,1392
+"82",NA,"White non-Hispanic alone",1841,1381,1270
+"83",NA,"Black alone",323,192,184
+"84",NA,"Asian alone",216,96,90
+"85",NA,"Hispanic (of any race)",461,235,196
+"86",NA,"White alone or in combination",2211,1548,1395
+"87",NA,"Black alone or in combination",326,195,184
+"88",NA,"Asian alone or in combination",216,96,90
+"89","DELAWARE","Total",766,542,489
+"90",NA,"Male",361,247,223
+"91",NA,"Female",404,296,266
+"92",NA,"White alone",540,392,348
+"93",NA,"White non-Hispanic alone",495,378,335
+"94",NA,"Black alone",172,114,106
+"95",NA,"Asian alone",31,18,18
+"96",NA,"Hispanic (of any race)",57,22,20
+"97",NA,"White alone or in combination",554,404,359
+"98",NA,"Black alone or in combination",181,121,112
+"99",NA,"Asian alone or in combination",36,23,23
+"100","DISTRICT OF COLUMBIA","Total",576,464,448
+"101",NA,"Male",264,209,200
+"102",NA,"Female",312,255,248
+"103",NA,"White alone",278,229,223
+"104",NA,"White non-Hispanic alone",243,213,206
+"105",NA,"Black alone",251,202,193
+"106",NA,"Asian alone",36,25,25
+"107",NA,"Hispanic (of any race)",50,26,26
+"108",NA,"White alone or in combination",285,234,228
+"109",NA,"Black alone or in combination",256,207,197
+"110",NA,"Asian alone or in combination",40,27,27
+"111","FLORIDA","Total",17244,10495,9720
+"112",NA,"Male",8263,4965,4563
+"113",NA,"Female",8982,5530,5157
+"114",NA,"White alone",13675,8468,7887
+"115",NA,"White non-Hispanic alone",9553,6676,6260
+"116",NA,"Black alone",2652,1533,1375
+"117",NA,"Asian alone",585,260,257
+"118",NA,"Hispanic (of any race)",4439,1992,1789
+"119",NA,"White alone or in combination",13843,8569,7982
+"120",NA,"Black alone or in combination",2819,1624,1460
+"121",NA,"Asian alone or in combination",591,266,263
+"122","GEORGIA","Total",8032,5233,4888
+"123",NA,"Male",3765,2354,2180
+"124",NA,"Female",4267,2880,2707
+"125",NA,"White alone",4785,3297,3079
+"126",NA,"White non-Hispanic alone",4239,3152,2947
+"127",NA,"Black alone",2569,1721,1608
+"128",NA,"Asian alone",389,124,116
+"129",NA,"Hispanic (of any race)",739,192,178
+"130",NA,"White alone or in combination",4857,3351,3127
+"131",NA,"Black alone or in combination",2702,1776,1657
+"132",NA,"Asian alone or in combination",398,133,125
+"133","HAWAII","Total",1056,673,630
+"134",NA,"Male",509,333,313
+"135",NA,"Female",546,340,317
+"136",NA,"White alone",261,184,175
+"137",NA,"White non-Hispanic alone",228,165,159
+"138",NA,"Black alone",18,15,11
+"139",NA,"Asian alone",489,291,268
+"140",NA,"Hispanic (of any race)",71,35,30
+"141",NA,"White alone or in combination",374,260,248
+"142",NA,"Black alone or in combination",25,15,11
+"143",NA,"Asian alone or in combination",613,377,351
+"144","IDAHO","Total",1370,900,843
+"145",NA,"Male",679,434,410
+"146",NA,"Female",691,466,433
+"147",NA,"White alone",1279,857,806
+"148",NA,"White non-Hispanic alone",1130,800,755
+"149",NA,"Black alone",10,5,4
+"150",NA,"Asian alone",22,7,5
+"151",NA,"Hispanic (of any race)",166,63,55
+"152",NA,"White alone or in combination",1303,873,822
+"153",NA,"Black alone or in combination",16,8,7
+"154",NA,"Asian alone or in combination",22,7,5
+"155","ILLINOIS","Total",9658,6590,6058
+"156",NA,"Male",4671,3098,2876
+"157",NA,"Female",4987,3492,3182
+"158",NA,"White alone",7551,5303,4849
+"159",NA,"White non-Hispanic alone",6218,4826,4429
+"160",NA,"Black alone",1335,861,811
+"161",NA,"Asian alone",643,331,313
+"162",NA,"Hispanic (of any race)",1421,532,475
+"163",NA,"White alone or in combination",7600,5331,4873
+"164",NA,"Black alone or in combination",1382,895,839
+"165",NA,"Asian alone or in combination",652,340,322
+"166","INDIANA","Total",5096,3412,3002
+"167",NA,"Male",2463,1632,1408
+"168",NA,"Female",2633,1781,1594
+"169",NA,"White alone",4318,2967,2601
+"170",NA,"White non-Hispanic alone",4122,2904,2546
+"171",NA,"Black alone",473,306,281
+"172",NA,"Asian alone",178,76,68
+"173",NA,"Hispanic (of any race)",225,72,60
+"174",NA,"White alone or in combination",4420,3010,2632
+"175",NA,"Black alone or in combination",532,333,299
+"176",NA,"Asian alone or in combination",189,76,68
+"177","IOWA","Total",2361,1742,1618
+"178",NA,"Male",1167,853,785
+"179",NA,"Female",1194,888,833
+"180",NA,"White alone",2160,1630,1521
+"181",NA,"White non-Hispanic alone",2068,1603,1496
+"182",NA,"Black alone",95,55,40
+"183",NA,"Asian alone",77,36,36
+"184",NA,"Hispanic (of any race)",108,42,40
+"185",NA,"White alone or in combination",2176,1645,1536
+"186",NA,"Black alone or in combination",110,71,56
+"187",NA,"Asian alone or in combination",80,39,39
+"188","KANSAS","Total",2157,1398,1297
+"189",NA,"Male",1057,667,621
+"190",NA,"Female",1101,731,676
+"191",NA,"White alone",1867,1263,1181
+"192",NA,"White non-Hispanic alone",1566,1171,1099
+"193",NA,"Black alone",106,69,59
+"194",NA,"Asian alone",86,13,11
+"195",NA,"Hispanic (of any race)",317,108,96
+"196",NA,"White alone or in combination",1916,1298,1216
+"197",NA,"Black alone or in combination",121,82,72
+"198",NA,"Asian alone or in combination",87,14,12
+"199","KENTUCKY","Total",3384,2450,2210
+"200",NA,"Male",1616,1159,1057
+"201",NA,"Female",1768,1291,1153
+"202",NA,"White alone",2994,2194,1997
+"203",NA,"White non-Hispanic alone",2845,2165,1971
+"204",NA,"Black alone",259,167,140
+"205",NA,"Asian alone",46,24,24
+"206",NA,"Hispanic (of any race)",163,30,26
+"207",NA,"White alone or in combination",3063,2243,2035
+"208",NA,"Black alone or in combination",306,198,161
+"209",NA,"Asian alone or in combination",49,24,24
+"210","LOUISIANA","Total",3438,2286,2041
+"211",NA,"Male",1618,1073,959
+"212",NA,"Female",1820,1214,1082
+"213",NA,"White alone",2212,1486,1362
+"214",NA,"White non-Hispanic alone",2048,1426,1309
+"215",NA,"Black alone",1068,720,607
+"216",NA,"Asian alone",84,23,23
+"217",NA,"Hispanic (of any race)",210,84,72
+"218",NA,"White alone or in combination",2261,1524,1396
+"219",NA,"Black alone or in combination",1092,737,624
+"220",NA,"Asian alone or in combination",90,29,26
+"221","MAINE","Total",1087,832,766
+"222",NA,"Male",523,383,351
+"223",NA,"Female",564,449,415
+"224",NA,"White alone",1036,803,739
+"225",NA,"White non-Hispanic alone",1027,798,734
+"226",NA,"Black alone",13,4,4
+"227",NA,"Asian alone",10,6,6
+"228",NA,"Hispanic (of any race)",11,7,7
+"229",NA,"White alone or in combination",1058,818,752
+"230",NA,"Black alone or in combination",15,6,6
+"231",NA,"Asian alone or in combination",18,12,12
+"232","MARYLAND","Total",4606,3383,3166
+"233",NA,"Male",2199,1517,1430
+"234",NA,"Female",2407,1865,1737
+"235",NA,"White alone",2757,2069,1917
+"236",NA,"White non-Hispanic alone",2487,1934,1786
+"237",NA,"Black alone",1421,1022,971
+"238",NA,"Asian alone",302,166,153
+"239",NA,"Hispanic (of any race)",323,150,145
+"240",NA,"White alone or in combination",2840,2151,1999
+"241",NA,"Black alone or in combination",1482,1083,1032
+"242",NA,"Asian alone or in combination",337,201,187
+"243","MASSACHUSETTS","Total",5514,3546,3249
+"244",NA,"Male",2642,1656,1505
+"245",NA,"Female",2872,1891,1744
+"246",NA,"White alone",4429,3174,2936
+"247",NA,"White non-Hispanic alone",3953,2949,2749
+"248",NA,"Black alone",489,165,142
+"249",NA,"Asian alone",415,139,109
+"250",NA,"Hispanic (of any race)",636,271,227
+"251",NA,"White alone or in combination",4597,3233,2988
+"252",NA,"Black alone or in combination",640,211,181
+"253",NA,"Asian alone or in combination",433,157,128
+"254","MICHIGAN","Total",7790,5513,4994
+"255",NA,"Male",3795,2648,2378
+"256",NA,"Female",3995,2865,2616
+"257",NA,"White alone",6269,4568,4144
+"258",NA,"White non-Hispanic alone",5922,4408,3997
+"259",NA,"Black alone",1021,713,628
+"260",NA,"Asian alone",281,72,65
+"261",NA,"Hispanic (of any race)",406,178,165
+"262",NA,"White alone or in combination",6374,4649,4225
+"263",NA,"Black alone or in combination",1091,773,684
+"264",NA,"Asian alone or in combination",309,90,84
+"265","MINNESOTA","Total",4339,3436,3225
+"266",NA,"Male",2149,1690,1575
+"267",NA,"Female",2190,1746,1649
+"268",NA,"White alone",3744,3086,2918
+"269",NA,"White non-Hispanic alone",3573,2990,2840
+"270",NA,"Black alone",260,139,130
+"271",NA,"Asian alone",179,91,74
+"272",NA,"Hispanic (of any race)",209,116,98
+"273",NA,"White alone or in combination",3816,3146,2979
+"274",NA,"Black alone or in combination",299,170,161
+"275",NA,"Asian alone or in combination",191,104,86
+"276","MISSISSIPPI","Total",2212,1749,1531
+"277",NA,"Male",1029,792,680
+"278",NA,"Female",1182,957,850
+"279",NA,"White alone",1350,1054,921
+"280",NA,"White non-Hispanic alone",1300,1026,904
+"281",NA,"Black alone",792,654,573
+"282",NA,"Asian alone",37,9,8
+"283",NA,"Hispanic (of any race)",67,34,23
+"284",NA,"White alone or in combination",1375,1079,942
+"285",NA,"Black alone or in combination",805,666,582
+"286",NA,"Asian alone or in combination",41,13,11
+"287","MISSOURI","Total",4637,3388,2990
+"288",NA,"Male",2205,1556,1361
+"289",NA,"Female",2432,1832,1629
+"290",NA,"White alone",3871,2935,2576
+"291",NA,"White non-Hispanic alone",3687,2816,2488
+"292",NA,"Black alone",518,373,351
+"293",NA,"Asian alone",138,38,38
+"294",NA,"Hispanic (of any race)",232,127,95
+"295",NA,"White alone or in combination",3941,2963,2588
+"296",NA,"Black alone or in combination",552,381,351
+"297",NA,"Asian alone or in combination",146,46,46
+"298","MONTANA","Total",836,641,607
+"299",NA,"Male",415,322,299
+"300",NA,"Female",422,318,309
+"301",NA,"White alone",772,597,572
+"302",NA,"White non-Hispanic alone",757,584,560
+"303",NA,"Black alone",4,2,2
+"304",NA,"Asian alone",10,4,4
+"305",NA,"Hispanic (of any race)",20,15,14
+"306",NA,"White alone or in combination",791,609,582
+"307",NA,"Black alone or in combination",6,4,3
+"308",NA,"Asian alone or in combination",13,5,5
+"309","NEBRASKA","Total",1435,971,892
+"310",NA,"Male",708,464,421
+"311",NA,"Female",728,507,471
+"312",NA,"White alone",1301,903,826
+"313",NA,"White non-Hispanic alone",1205,877,801
+"314",NA,"Black alone",80,45,44
+"315",NA,"Asian alone",26,9,9
+"316",NA,"Hispanic (of any race)",98,28,27
+"317",NA,"White alone or in combination",1307,907,830
+"318",NA,"Black alone or in combination",82,47,46
+"319",NA,"Asian alone or in combination",26,9,9
+"320","NEVADA","Total",2402,1455,1351
+"321",NA,"Male",1192,698,649
+"322",NA,"Female",1210,757,702
+"323",NA,"White alone",1691,1072,1013
+"324",NA,"White non-Hispanic alone",1211,868,827
+"325",NA,"Black alone",233,155,136
+"326",NA,"Asian alone",230,136,134
+"327",NA,"Hispanic (of any race)",654,268,239
+"328",NA,"White alone or in combination",1815,1113,1050
+"329",NA,"Black alone or in combination",259,167,146
+"330",NA,"Asian alone or in combination",252,146,144
+"331","NEW HAMPSHIRE","Total",1101,843,797
+"332",NA,"Male",542,401,375
+"333",NA,"Female",559,442,423
+"334",NA,"White alone",1030,813,771
+"335",NA,"White non-Hispanic alone",1000,799,758
+"336",NA,"Black alone",20,4,4
+"337",NA,"Asian alone",27,9,8
+"338",NA,"Hispanic (of any race)",38,19,14
+"339",NA,"White alone or in combination",1045,823,782
+"340",NA,"Black alone or in combination",32,14,14
+"341",NA,"Asian alone or in combination",27,9,8
+"342","NEW JERSEY","Total",6801,5008,4638
+"343",NA,"Male",3281,2366,2193
+"344",NA,"Female",3520,2642,2445
+"345",NA,"White alone",4900,3826,3543
+"346",NA,"White non-Hispanic alone",3755,3134,2950
+"347",NA,"Black alone",994,658,606
+"348",NA,"Asian alone",810,443,408
+"349",NA,"Hispanic (of any race)",1347,817,719
+"350",NA,"White alone or in combination",4971,3884,3602
+"351",NA,"Black alone or in combination",1064,716,663
+"352",NA,"Asian alone or in combination",816,449,414
+"353","NEW MEXICO","Total",1610,1028,938
+"354",NA,"Male",784,495,450
+"355",NA,"Female",826,533,488
+"356",NA,"White alone",1340,881,812
+"357",NA,"White non-Hispanic alone",745,578,542
+"358",NA,"Black alone",34,24,21
+"359",NA,"Asian alone",28,12,12
+"360",NA,"Hispanic (of any race)",636,323,290
+"361",NA,"White alone or in combination",1384,911,840
+"362",NA,"Black alone or in combination",46,34,29
+"363",NA,"Asian alone or in combination",38,22,22
+"364","NEW YORK","Total",15105,9370,8609
+"365",NA,"Male",7164,4309,3936
+"366",NA,"Female",7941,5061,4673
+"367",NA,"White alone",10551,6933,6443
+"368",NA,"White non-Hispanic alone",8764,6188,5775
+"369",NA,"Black alone",2554,1598,1459
+"370",NA,"Asian alone",1533,593,528
+"371",NA,"Hispanic (of any race)",2330,991,883
+"372",NA,"White alone or in combination",10786,7086,6543
+"373",NA,"Black alone or in combination",2722,1694,1523
+"374",NA,"Asian alone or in combination",1630,665,568
+"375","NORTH CAROLINA","Total",8113,5161,4780
+"376",NA,"Male",3854,2377,2185
+"377",NA,"Female",4259,2783,2595
+"378",NA,"White alone",5775,3638,3379
+"379",NA,"White non-Hispanic alone",4859,3418,3173
+"380",NA,"Black alone",1752,1166,1083
+"381",NA,"Asian alone",317,168,156
+"382",NA,"Hispanic (of any race)",989,267,240
+"383",NA,"White alone or in combination",5894,3725,3449
+"384",NA,"Black alone or in combination",1802,1209,1118
+"385",NA,"Asian alone or in combination",344,182,170
+"386","NORTH DAKOTA","Total",571,429,373
+"387",NA,"Male",289,217,188
+"388",NA,"Female",282,212,185
+"389",NA,"White alone",503,393,352
+"390",NA,"White non-Hispanic alone",489,388,348
+"391",NA,"Black alone",13,2,2
+"392",NA,"Asian alone",10,3,3
+"393",NA,"Hispanic (of any race)",16,6,5
+"394",NA,"White alone or in combination",512,400,356
+"395",NA,"Black alone or in combination",15,4,2
+"396",NA,"Asian alone or in combination",12,4,3
+"397","OHIO","Total",8951,6733,6128
+"398",NA,"Male",4311,3219,2913
+"399",NA,"Female",4640,3514,3216
+"400",NA,"White alone",7416,5724,5223
+"401",NA,"White non-Hispanic alone",7095,5535,5077
+"402",NA,"Black alone",1069,758,678
+"403",NA,"Asian alone",234,101,96
+"404",NA,"Hispanic (of any race)",383,226,175
+"405",NA,"White alone or in combination",7592,5844,5324
+"406",NA,"Black alone or in combination",1181,831,738
+"407",NA,"Asian alone or in combination",260,126,121
+"408","OKLAHOMA","Total",2942,1884,1631
+"409",NA,"Male",1434,856,741
+"410",NA,"Female",1508,1028,890
+"411",NA,"White alone",2289,1537,1347
+"412",NA,"White non-Hispanic alone",1977,1442,1276
+"413",NA,"Black alone",231,123,108
+"414",NA,"Asian alone",26,4,4
+"415",NA,"Hispanic (of any race)",348,106,75
+"416",NA,"White alone or in combination",2402,1588,1382
+"417",NA,"Black alone or in combination",255,130,113
+"418",NA,"Asian alone or in combination",43,9,4
+"419","OREGON","Total",3369,2590,2402
+"420",NA,"Male",1645,1245,1144
+"421",NA,"Female",1724,1345,1258
+"422",NA,"White alone",2955,2345,2191
+"423",NA,"White non-Hispanic alone",2712,2229,2094
+"424",NA,"Black alone",82,47,39
+"425",NA,"Asian alone",143,70,66
+"426",NA,"Hispanic (of any race)",281,122,105
+"427",NA,"White alone or in combination",3064,2441,2265
+"428",NA,"Black alone or in combination",93,58,50
+"429",NA,"Asian alone or in combination",179,101,84
+"430","PENNSYLVANIA","Total",9902,7337,6756
+"431",NA,"Male",4787,3489,3192
+"432",NA,"Female",5115,3848,3564
+"433",NA,"White alone",8485,6390,5875
+"434",NA,"White non-Hispanic alone",7910,6115,5634
+"435",NA,"Black alone",1042,751,694
+"436",NA,"Asian alone",231,88,84
+"437",NA,"Hispanic (of any race)",618,305,270
+"438",NA,"White alone or in combination",8613,6486,5965
+"439",NA,"Black alone or in combination",1139,824,761
+"440",NA,"Asian alone or in combination",246,103,99
+"441","RHODE ISLAND","Total",840,575,515
+"442",NA,"Male",402,273,246
+"443",NA,"Female",438,302,269
+"444",NA,"White alone",742,519,462
+"445",NA,"White non-Hispanic alone",659,484,429
+"446",NA,"Black alone",61,39,37
+"447",NA,"Asian alone",25,10,10
+"448",NA,"Hispanic (of any race)",88,38,36
+"449",NA,"White alone or in combination",750,525,466
+"450",NA,"Black alone or in combination",68,45,41
+"451",NA,"Asian alone or in combination",25,10,10
+"452","SOUTH CAROLINA","Total",4010,2713,2459
+"453",NA,"Male",1887,1266,1158
+"454",NA,"Female",2123,1447,1302
+"455",NA,"White alone",2840,2013,1845
+"456",NA,"White non-Hispanic alone",2605,1945,1789
+"457",NA,"Black alone",1032,613,546
+"458",NA,"Asian alone",50,37,34
+"459",NA,"Hispanic (of any race)",257,77,62
+"460",NA,"White alone or in combination",2888,2049,1871
+"461",NA,"Black alone or in combination",1047,618,551
+"462",NA,"Asian alone or in combination",70,53,51
+"463","SOUTH DAKOTA","Total",659,437,380
+"464",NA,"Male",330,217,189
+"465",NA,"Female",329,221,191
+"466",NA,"White alone",587,401,351
+"467",NA,"White non-Hispanic alone",577,397,348
+"468",NA,"Black alone",18,5,4
+"469",NA,"Asian alone",12,4,4
+"470",NA,"Hispanic (of any race)",13,6,5
+"471",NA,"White alone or in combination",600,411,360
+"472",NA,"Black alone or in combination",18,5,4
+"473",NA,"Asian alone or in combination",18,8,8
+"474","TENNESSEE","Total",5283,3742,3346
+"475",NA,"Male",2544,1766,1563
+"476",NA,"Female",2738,1976,1783
+"477",NA,"White alone",4212,2992,2677
+"478",NA,"White non-Hispanic alone",3918,2924,2619
+"479",NA,"Black alone",866,658,592
+"480",NA,"Asian alone",99,37,34
+"481",NA,"Hispanic (of any race)",329,72,63
+"482",NA,"White alone or in combination",4298,3032,2708
+"483",NA,"Black alone or in combination",895,671,602
+"484",NA,"Asian alone or in combination",111,49,46
+"485","TEXAS","Total",21485,13343,11874
+"486",NA,"Male",10513,6338,5580
+"487",NA,"Female",10972,7005,6295
+"488",NA,"White alone",17042,10734,9612
+"489",NA,"White non-Hispanic alone",9615,7396,6785
+"490",NA,"Black alone",2700,1759,1521
+"491",NA,"Asian alone",1239,521,482
+"492",NA,"Hispanic (of any race)",7730,3538,2972
+"493",NA,"White alone or in combination",17361,10928,9762
+"494",NA,"Black alone or in combination",2890,1882,1636
+"495",NA,"Asian alone or in combination",1355,601,546
+"496","UTAH","Total",2320,1468,1386
+"497",NA,"Male",1146,699,647
+"498",NA,"Female",1174,769,739
+"499",NA,"White alone",2096,1368,1293
+"500",NA,"White non-Hispanic alone",1860,1268,1203
+"501",NA,"Black alone",40,9,9
+"502",NA,"Asian alone",51,10,10
+"503",NA,"Hispanic (of any race)",253,100,89
+"504",NA,"White alone or in combination",2118,1378,1303
+"505",NA,"Black alone or in combination",48,11,11
+"506",NA,"Asian alone or in combination",55,13,13
+"507","VERMONT","Total",507,365,342
+"508",NA,"Male",250,178,163
+"509",NA,"Female",257,187,178
+"510",NA,"White alone",477,354,332
+"511",NA,"White non-Hispanic alone",474,351,329
+"512",NA,"Black alone",8,1,1
+"513",NA,"Asian alone",11,3,3
+"514",NA,"Hispanic (of any race)",6,4,4
+"515",NA,"White alone or in combination",485,360,337
+"516",NA,"Black alone or in combination",10,1,1
+"517",NA,"Asian alone or in combination",14,6,6
+"518","VIRGINIA","Total",6481,4541,4275
+"519",NA,"Male",3084,2092,1981
+"520",NA,"Female",3396,2449,2293
+"521",NA,"White alone",4526,3393,3204
+"522",NA,"White non-Hispanic alone",3979,3160,3018
+"523",NA,"Black alone",1237,764,722
+"524",NA,"Asian alone",512,271,253
+"525",NA,"Hispanic (of any race)",678,271,218
+"526",NA,"White alone or in combination",4620,3454,3248
+"527",NA,"Black alone or in combination",1304,805,748
+"528",NA,"Asian alone or in combination",535,287,269
+"529","WASHINGTON","Total",5993,4029,3854
+"530",NA,"Male",2947,1921,1806
+"531",NA,"Female",3046,2109,2047
+"532",NA,"White alone",4735,3452,3309
+"533",NA,"White non-Hispanic alone",4122,3177,3070
+"534",NA,"Black alone",257,136,130
+"535",NA,"Asian alone",557,213,210
+"536",NA,"Hispanic (of any race)",680,296,261
+"537",NA,"White alone or in combination",4928,3573,3426
+"538",NA,"Black alone or in combination",331,170,164
+"539",NA,"Asian alone or in combination",590,227,224
+"540","WEST VIRGINIA","Total",1397,928,773
+"541",NA,"Male",684,457,379
+"542",NA,"Female",714,471,395
+"543",NA,"White alone",1324,879,735
+"544",NA,"White non-Hispanic alone",1303,871,729
+"545",NA,"Black alone",45,26,18
+"546",NA,"Asian alone",5,1,1
+"547",NA,"Hispanic (of any race)",23,10,8
+"548",NA,"White alone or in combination",1346,900,754
+"549",NA,"Black alone or in combination",54,34,25
+"550",NA,"Asian alone or in combination",6,2,2
+"551","WISCONSIN","Total",4538,3391,3253
+"552",NA,"Male",2223,1616,1533
+"553",NA,"Female",2315,1775,1720
+"554",NA,"White alone",4005,3119,3008
+"555",NA,"White non-Hispanic alone",3776,3020,2914
+"556",NA,"Black alone",263,126,114
+"557",NA,"Asian alone",117,44,44
+"558",NA,"Hispanic (of any race)",242,105,101
+"559",NA,"White alone or in combination",4113,3192,3081
+"560",NA,"Black alone or in combination",318,152,141
+"561",NA,"Asian alone or in combination",138,59,59
+"562","WYOMING","Total",436,296,280
+"563",NA,"Male",217,141,132
+"564",NA,"Female",219,155,147
+"565",NA,"White alone",410,280,265
+"566",NA,"White non-Hispanic alone",379,265,251
+"567",NA,"Black alone",2,1,1
+"568",NA,"Asian alone",2,NA,NA
+"569",NA,"Hispanic (of any race)",40,23,21
+"570",NA,"White alone or in combination",422,290,273
+"571",NA,"Black alone or in combination",4,3,3
+"572",NA,"Asian alone or in combination",4,2,2
