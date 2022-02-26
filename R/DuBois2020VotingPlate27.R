@@ -230,3 +230,6 @@ ggdraw(PlotGraph) +
   draw_grob(circle1 , x = -0.17, y = 0.10, scale = 0.04) +
   draw_grob(circle2 , x =-0.17, y = 0.20, scale = 0.04) +
   draw_grob(circle3 , x = 0.17, y = 0.15, scale = 0.04) 
+
+  ### Code Adapted from Ella Hollowood (https://rpubs.com/ejhollowood/du-bois) ###
+  ### COde Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2021/challenge_03.R) ###
