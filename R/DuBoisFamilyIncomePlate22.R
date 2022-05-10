@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggforce)
 library(showtext)
 
-### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
+### Code from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
 
 # load data
 df <- readr::read_csv("E:/W.E.B Du Bois/Data/data.csv") %>% 
@@ -87,4 +87,4 @@ p <- ggplot() +
         plot.margin = unit(c(0.1, 0.8, 1.3, 0.8), "cm")) 
 p
 
-### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
+### Code from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
