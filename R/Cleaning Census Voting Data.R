@@ -1,5 +1,7 @@
 library(openxlsx)
 
+# Voting and Registration in the Election of November 2020 Table 4b
+# https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html
 urlToRead <- "https://www2.census.gov/programs-surveys/cps/tables/p20/585/table04b.xlsx"
 testFrame <- read.xlsx(urlToRead)
 

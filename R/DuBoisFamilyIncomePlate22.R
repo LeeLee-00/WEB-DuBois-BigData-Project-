@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggforce)
 library(showtext)
 
-### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
+### Code from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
 
 
 # load data from CleaningCensusBlackOnlyIncomeData Script As "TestFrame" Table.
@@ -85,4 +85,4 @@ IN THE U.S. 2005-2020") +
         plot.margin = unit(c(0.1, 0.8, 1.3, 0.8), "cm")) 
 p
 
-### Adapted from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
+### Code from Nicola Rennie (https://github.com/nrennie/dubois_challenge/blob/main/2022/challenge_02.R) ###
