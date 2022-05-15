@@ -2,6 +2,9 @@ library(openxlsx)
 library(tidyverse)
 library(scales)
 
+## Historical Income Tables: Families Table F-5
+# https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-families.html
+
 UrlToRead <- "https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-families/f05.xlsx"
 TestFrame <- read.xlsx(UrlToRead)
 TestFrame <- data.frame(TestFrame)
@@ -18,3 +21,5 @@ TestFrame$`Mean Income(Current Dollars)` <- dollar(TestFrame$`Mean Income(Curren
 
 #Reset Row Numbers
 rownames(TestFrame) = NULL
+
+#Script is Used for DuBoisFamilyIncomePlate22 Visualization Script
