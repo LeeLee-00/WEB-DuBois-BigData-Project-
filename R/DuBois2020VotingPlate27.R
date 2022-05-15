@@ -115,7 +115,7 @@ BlackWhitePopulation <- testFrame %>%
   filter(SexRaceHispanic == "Black alone" | SexRaceHispanic == "White alone") %>%
   mutate(State = tolower(State))
 
-
+race <- c("B","W")
 
 population <- c(BlackWhitePopulation$Population[2],BlackWhitePopulation$Population[1])
 population

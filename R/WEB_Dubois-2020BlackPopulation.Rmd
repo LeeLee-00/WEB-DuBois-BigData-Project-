@@ -25,6 +25,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyverse)
 library(openxlsx)
+library(showtext)
 
 ```
 
@@ -175,6 +176,8 @@ black populations.
 ### Adapted from Ella Hollowood [link](https://rpubs.com/ejhollowood/du-bois)
 
 ```{r}
+font_add_google("Rajdhani", "Rajdhani")
+showtext_auto()
 
 top_n(BlackPopulation, n = 15, Population) %>%
   ggplot(., aes(x = reorder(State, Population), y = Population)) +
@@ -183,14 +186,6 @@ top_n(BlackPopulation, n = 15, Population) %>%
     width = 0.5, 
     fill = "red3") +
   coord_flip() +
-  geom_text(data = subset(BlackPopulation, Population >= 2700), 
-            aes(y = Population, ymax = Population, label = Population),
-            hjust = 13,
-            family = c("Rajdhani"), size = 5) +
-  geom_text(data = subset(BlackPopulation, Population == 994), 
-            aes(y = Population, ymax = Population, label = Population),
-            hjust = 6,
-            family = c("Rajdhani"), size = 5) +
   theme(text = element_text(family = "Rajdhani", colour = "black"),
         panel.background = element_blank(),
         axis.title = element_blank(),
