@@ -80,11 +80,3 @@ testFrame2$Voted <- as.numeric(testFrame2$Voted)
 
 # Reset row numbers
 rownames(testFrame2) = NULL
-
-## Creating & Filtering for Black Alone 
-BlkPop2016 <- testFrame2 %>% 
-  filter(SexRaceHispanic == "Black alone") %>%
-  mutate(State = toupper(State))
-
-BlkPop2016 <- BlkPop2016[-1, ]
-
