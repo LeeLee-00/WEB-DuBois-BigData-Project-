@@ -1,5 +1,7 @@
 library(openxlsx)
 
+### Cleaning 2020 Voting Data ----
+
 urlToRead <- "https://www2.census.gov/programs-surveys/cps/tables/p20/585/table04b.xlsx"
 testFrame <- read.xlsx(urlToRead)
 
@@ -77,4 +79,3 @@ testFrame$Voted <- as.numeric(testFrame$Voted)
 
 # Reset row numbers
 rownames(testFrame) = NULL
-
