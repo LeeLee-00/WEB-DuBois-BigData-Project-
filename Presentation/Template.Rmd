@@ -1,0 +1,35 @@
+---
+title: "Du Bois Big Data Project"
+author: "Lee Joey Noel & Christie Williams"
+output:
+  xaringan::moon_reader:
+    css: ["Custom.css","useR-fonts-template.css"]
+    lib_dir: libs
+---
+
+class: chapter-slide
+
+# Introduction
+## Du Bois Timeline
+### Header test 3
+#### Header test 4
+
+
+---
+class: chapter-slide
+
+## Header 2
+
+Some text
+
+### Header 3
+
+```{r}
+# some code
+seq(1:5)
+```
+
+---
+
+
+
