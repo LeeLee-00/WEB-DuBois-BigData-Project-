@@ -1,20 +1,29 @@
 ---
-title: "Du Bois Big Data Project"
-author: "Lee Joey Noel & Christie Williams"
+title: "W.E.B. Du Bois’s Visualizations of 21st Century Big Data in R"
+author: "Lee Joey Noel, Christie Williams & Alon Friedman"
 output:
   xaringan::moon_reader:
     css: ["Custom.css","useR-fonts-template.css"]
     lib_dir: libs
 ---
-
 class: chapter-slide
-
-# Introduction
 ## Du Bois Timeline
-### Header test 3
-#### Header test 4
+### Research Question:
+- Will today's big data fit Du Bois's data design?
+
+###Background:
+- ##### William Edward Burghardt Du Bois was an American sociologist, socialist, historian, and Pan-Africanist civil rights activist (1868 –1963)
+- ##### In 1898, he published the article titled: “The Study of the Negro Problems” in the Annals of the  American Academy of Political and Social Science. 11(1), 1-23.
+- ##### Mansky, Jackie (2018). "WEB Du Bois’ Visionary Infographics Come Together for the First Time in Full Color." Smithsonian Magazine (15).
+- ##### His work on infographics was not alone, he worked with an interdisciplinary team of black students from Atlanta University to produce data visualization to capture the issues of Civil Rights Activists in Black America in the 20th century.
+- ##### Mansky, Jackie (2018). "WEB Du Bois’ Visionary Infographics Come Together for the First Time in Full Color." Smithsonian Magazine (15).
+- ##### Katherine Fusco and Lynda Olman (2022) “Techniques of Justice: W.E.B. Du Bois’ Data Portraits and the Problem of Visualizing Race.” MELUS, 46(3), 159-187.
+- ##### However, with all the work done by scholars and historians to examine Du Bois' work, we did not find any attempt to compare the 2020 elections to Bois visual work in R.
 
 
+???
+
+This is the presenter notes LEELE
 ---
 class: chapter-slide
 
