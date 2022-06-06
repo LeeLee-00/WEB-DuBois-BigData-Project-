@@ -9,14 +9,15 @@
   font-weight: bold;
 }
 
-/*.title-slide{
-  background-image: url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png");
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-} */
+.grad {
+  background: #F4FCD9;
+  background-image: linear-gradient(to bottom, #F4FCD9 85%, rgba(244, 252, 217) 95%);
+}
 
 .title-slide {
-  background-image:url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png"), linear-gradient(to bottom, white 85%, rgba(227, 227, 227) 95%);
+  background-image:url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), 
+  url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png"), 
+  linear-gradient(to bottom, white 85%, rgba(227, 227, 227) 95%); /* */
   background-position: 5% 15%, 95% 15% ;
   background-size: 160px, 160px, cover ;
 }
@@ -38,7 +39,7 @@
   text-align: left;
   position: relative ;
   top: 300px;
-  color: #454647;
+  color: #454647; 
   font-weight: normal;
 }
 
@@ -74,17 +75,54 @@
   color: #006747 ;
 }
 
+.chapter-slide-third-slide h4 {
+  margin-bottom: 0.12em;
+}
+
+.chapter-slide-third-slide {
+  background-image:url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), 
+  /*url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png") */ , 
+  linear-gradient(to bottom, white 85%, rgba(227, 227, 227) 95%); /* */
+  background-position: 3% 98% , 50% 60%;
+  background-size: 100px, 500px, cover ;
+  opacity:0 , 0.75;
+}
+
+/*
+HERO IMAGE. WILL COME BACK TO THIS LATER
+
+.hero-image {
+  background: url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png");
+  background-position: 50% 60%;
+  background-size:500px, cover;
+  position: relative;
+  background-repeat: no-repeat;
+}  */ 
+
+
+.chapter-slide-thanks h4 {
+  margin-top: 0.18em;
+  margin-bottom: 0.12em;  
+}
+
+.chapter-slide-timeline {
+  background-image:url("https://cdn.britannica.com/08/78408-050-4C599E7C/WEB-Du-Bois.jpg?w=300&h=169&c=crop");
+  background-position: 95% 15%;
+  background-repeat: no-repeat;  
+}
+
 /* Two-column layout */
 .left-column {
+  color: #777;
   width: 20%;
+  height: 92%;
   float: left;
-  margin-top: -30px;
 }
 
 .right-column {
   width: 75%;
   float: right;
-  margin-top: -30px;
+  padding-top: 1em;
 }
 
 .pull-left {
@@ -96,4 +134,36 @@
   float: right;
   width: 47%;
   margin-top: -30px;
+}
+
+
+.image-wrapper {
+  box-sizing:border-box;
+  float: left;
+  margin-bottom:30px;
+  width: 50%;
+}
+
+.image-wrapper:nth-child(even)
+{
+  padding-left:0px;
+}
+
+.image-wrapper:nth-child(odd)
+{
+  padding-right:0px;
+}
+
+.image-wrapper > img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.image-wrapper > span {
+  display: inline-block;
+  width: 100%;
+}
+
+.chapter-slide-visualization h2 {
+  margin-bottom: 0.12em;
 }
