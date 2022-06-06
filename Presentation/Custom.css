@@ -43,12 +43,6 @@
   font-weight: normal;
 }
 
-/* Current Color for chapter slides - 006747 (Green) */
-.chapter-slide {
- background: #F4FCD9; /* Figure out how to make use R and usf Logo overlap over usf colored screen */
- url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1")
-}
-
 .chapter-slide li, ul, h5{
   margin: 0.3em;
 } 
