@@ -75,28 +75,28 @@
 
 .chapter-slide-third-slide {
   background-image:url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), 
-  /*url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png") */ , 
-  linear-gradient(to bottom, white 85%, rgba(227, 227, 227) 95%); /* */
-  background-position: 3% 98% , 50% 60%;
-  background-size: 100px, 500px, cover ;
-  opacity:0 , 0.75;
+  linear-gradient(to bottom, #F4FCD9 100%, rgba(227, 227, 227) 95%);
+  background-position: 20px 590px , center;
+  background-size: 85px , 100% 100%, cover ;
 }
 
-/*
-HERO IMAGE. WILL COME BACK TO THIS LATER
 
-.hero-image {
-  background: url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/1200px-University_of_South_Florida_seal.svg.png");
-  background-position: 50% 60%;
-  background-size:500px, cover;
-  position: relative;
-  background-repeat: no-repeat;
-}  */ 
+.reflection-slide {
+  background-image:url("https://www.dropbox.com/s/ff7nr4n2dcm59de/useR_logo.png?dl=1"), 
+  linear-gradient(to bottom, #F4FCD9 100%, rgba(227, 227, 227) 95%);
+  background-position: 20px 590px , center;
+  background-size: 85px , 100% 100%, cover ;  
+}
 
+.chapter-slide-thanks h3 {
+ margin-top: 20.50px;
+ margin-bottom: 0.20em; 
+}  
 
 .chapter-slide-thanks h4 {
   margin-top: 0.18em;
-  margin-bottom: 0.12em;  
+  margin-bottom: 0.12em;
+  color: black;
 }
 
 .chapter-slide-timeline {
@@ -104,6 +104,24 @@ HERO IMAGE. WILL COME BACK TO THIS LATER
   background-position: 95% 15%;
   background-repeat: no-repeat;  
 }
+
+.chapter-slide-timeline p {
+  margin-right: 12em;
+  padding: 5px;
+  padding-right: 1px;
+  padding-left: 1px;
+  word-wrap: break-word;  
+}
+
+.chapter-slide-timeline li, ul, h5 {
+  margin-top: 0.3em;
+  margin-bottom: 0.2em;
+} 
+
+.chapter-slide-timeline h4 {
+  margin-top: 0.9em;
+  margin-bottom: 0.0em;
+} 
 
 /* Two-column layout */
 .left-column {
@@ -132,10 +150,13 @@ HERO IMAGE. WILL COME BACK TO THIS LATER
 
 
 .image-wrapper {
-  box-sizing:border-box;
-  float: left;
-  margin-bottom:30px;
-  width: 50%;
+  box-sizing: border-box;
+  float: right;
+  margin-left: 48px;
+  margin-right: -80px;
+  margin-bottom: 15px;
+  width: 54%;
+  position: relative;
 }
 
 .image-wrapper:nth-child(even)
@@ -159,5 +180,31 @@ HERO IMAGE. WILL COME BACK TO THIS LATER
 }
 
 .chapter-slide-visualization h2 {
-  margin-bottom: 0.12em;
+  margin-bottom: -0.45em;
 }
+
+
+/*
+
+Spoke with Christie and gonna continue on this tomorrow....
+
+.plate-3 p{
+  object-position: 2px 50px;
+  margin: 0em;
+}
+
+HTML CODE FOR PLATE 3 Container:
+
+<div class = "plate-3">
+<p>Plate #3</p>
+</div>
+
+.plate-27 p{
+  margin: 0em;  
+} 
+ HTML CODE FOR PLATE 27 Container:
+ 
+ <div class = "plate-27">
+<p>Plate #27</p> 
+
+*/

@@ -3,7 +3,8 @@
   <head>
     <title>W.E.B. Du Bois’s Visualizations of 21st Century Big Data in R</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Lee Joey Noel, Christie Williams &amp; Alon Friedman" />
+    <meta name="author" content="Lee Joey Noel, Christie Dawn Williams &amp;" />
+    <meta name="author" content="Dr. Alon Friedman" />
     <script src="libs/header-attrs-2.14/header-attrs.js"></script>
     <link rel="stylesheet" href="Custom.css" type="text/css" />
     <link rel="stylesheet" href="useR-fonts-template.css" type="text/css" />
@@ -16,52 +17,82 @@ class: center, middle, inverse, title-slide
 # W.E.B. Du Bois’s Visualizations of 21st Century Big Data in R
 ]
 .author[
-### Lee Joey Noel, Christie Williams &amp; Alon Friedman
+### Lee Joey Noel, Christie Dawn Williams &amp;
+]
+.author[
+### Dr. Alon Friedman
 ]
 
 ---
 
-
 class: chapter-slide, chapter-slide-timeline, grad
+
 
 ## Du Bois Timeline
 ### Research Question:
-- Will today's big data fit Du Bois's data design?
+- &lt;p&gt; Can W.E.B. Du Bois’s data visualization design portray the 21st Century Big Data in R? &lt;/p&gt;
 
-###Background:
+#### Background:
 - ##### William Edward Burghardt Du Bois was an American sociologist, socialist, historian, and Pan-Africanist civil rights activist (1868 –1963)
-- ##### In 1898, he published the article titled: “The Study of the Negro Problems” in the Annals of the  American Academy of Political and Social Science. 11(1), 1-23.
-- ##### Mansky, Jackie (2018). "WEB Du Bois’ Visionary Infographics Come Together for the First Time in Full Color." Smithsonian Magazine (15).
 - ##### His work on infographics was not alone, he worked with an interdisciplinary team of black students from Atlanta University to produce data visualization to capture the issues of Civil Rights Activists in Black America in the 20th century.
-- ##### Mansky, Jackie (2018). "WEB Du Bois’ Visionary Infographics Come Together for the First Time in Full Color." Smithsonian Magazine (15).
-- ##### Katherine Fusco and Lynda Olman (2022) “Techniques of Justice: W.E.B. Du Bois’ Data Portraits and the Problem of Visualizing Race.” MELUS, 46(3), 159-187.
-- ##### However, with all the work done by scholars and historians to examine Du Bois' work, we did not find any attempt to compare the 2020 elections to Bois visual work in R.
+- ##### In 1898, he published the article titled: “The Study of the Negro Problems” in the Annals of the  American Academy of Political and Social Science. 11(1), 1-23.
+
+#### Literature Review:
+- ##### Katherine Fusco and Lynda Olman (2022) “Techniques of Justice: W.E.B. Du Bois’s Data Portraits and the Problem of Visualizing Race.” MELUS, 46(3), 159-187.
+
+#### Our contribution:
+- ##### However, with all the work done by scholars and historians to examine Du Bois's work, we did not find any attempt to compare the 2020 elections to Du Bois's visual work in R.
 
 
 ???
 
 This is the presenter notes LEELE
 ---
-class: chapter-slide, chapter-slide-third-slide, hero-image
+class: chapter-slide, chapter-slide-third-slide, 
 ## Data Cleaning &amp; Development
 #### Cleaning:
 
-- ##### Imported data directly from Census Bureau’s website. Data consists of a total of 574 rows and 14 columns. Cleaned data by removing unwanted rows and columns. State names and numeric data changed to factors and numeric, respectively. First step in our investigation was race. Visualizations utilized Black alone and White alone, without addressing, Latino, Asian, and mixed marriages.
+- ##### Imported data directly from Census Bureau’s website. Data consists of a total of 574 rows and 14 columns. Cleaned data by removing percentage and margin of error data as well as other ethnic groups. State names and numeric data changed to factors and numeric, respectively. First step in our investigation was race. Visualizations utilized Black alone and White alone, without addressing, Latino, Asian, and mixed marriages.
 
 #### Development: 
 
 - ##### Plate 3, dplyr package utilized to filter “Black alone” and formatted font to upper to match Du Bois’s style in the original. The ggplot2 package was utilized for its ability to manipulate multiple components of visualizations. As a result, states were reorganized by largest population and the top 15 states were graphed.
-- ##### Plate 27, code adopted from both Ella Hollowood and Nicola Rennie. Data from Total Population, Voters Registered, and Total Voters columns were used for each the 2016 and 2020 Elections. “Black alone” and “White alone” were filtered out, colors were assigned to each category, and finally, we matched W.E.B Du Bois’s unique style design. The grid package from ggplot2 created the colored circles for labels and the cowplot package allowed us to annotate and align labels.
+- ##### Plate 27, code adopted from both Ella Hollowood and Nicola Rennie. Data from Total Population, Voters Registered, and Total Voters columns were used for each the 2016 and 2020 Elections. “Black alone” and “White alone” were filtered out, colors were assigned to each category, and finally, we matched W.E.B. Du Bois’s unique style design. The grid package from ggplot2 created the colored circles for labels and the cowplot package allowed us to annotate and align labels.
 
 ---
+class: reflection-slide
+
 ## Reflections
 - ##### This project taught us about diversity and inclusion in voting rights throughout history. While white race votes have historically been the majority and increased over time, change is coming. It has taken more than 120 years for this to change, but we see a slow steady progression of black registered and voting percentages.
 - ##### Moving forward with our project, we plan to conduct similar reviews on 2022 mid-term and 2024 presidential elections and examine if history has changed or not since Du Bois’s time. We will use R to provide us with true results in the upcoming elections as W. E. B. Du Bois used it in his data visualization paper and color. 
+
 ---
-class: chapter-slide, chapter-slide-thanks 
+
+class: chapter-slide, chapter-slide-visualization, reflection-slide
+
+## Visualization
+&lt;div class="image-wrapper"&gt;
+  &lt;img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/plate03/original-plate-03.jpg?raw=true" width="275" height="275"/&gt;
+&lt;/div&gt;
+
+&lt;div class="image-wrapper"&gt;
+      &lt;img src="https://github.com/Christie3Dawn/WEB-DuBois-Project/blob/master/images/2020_Black_Pop.png?raw=true" width="275" height="275"/&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="image-wrapper"&gt;
+  &lt;img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/plate27/original-plate-27.jpg?raw=true" width="275" height="275"/&gt;
+&lt;/div&gt;
+
+&lt;div class="image-wrapper"&gt;
+  &lt;img src="https://github.com/Christie3Dawn/WEB-DuBois-Project/blob/master/images/DuBoisPlate27-2020-Election.png?raw=true" width="275" height="275"/&gt;
+&lt;/div&gt;
+---
+
+class: chapter-slide, reflection-slide, chapter-slide-thanks 
 
 ## Credits
-### Big thanks! 
+### Big Thanks! 
   - #### Lee Joey Noel, partner   
   - #### Dr. Alon Friedman, contributor
  
@@ -72,27 +103,6 @@ class: chapter-slide, chapter-slide-thanks
 ### #DuBoisChallenge Founders
   - #### Anthony Starks 
   - #### Allen Hillary and Sekou Tyler
-
----
-class: chapter-slide, chapter-slide-visualization
-
-## Visualization
-
-&lt;div class="image-wrapper"&gt;
-    &lt;img src="https://github.com/Christie3Dawn/WEB-DuBois-Project/blob/master/images/2020_Black_Pop.png?raw=true" width="250" height="250"/&gt;
-&lt;/div&gt;
-
-&lt;div class="image-wrapper"&gt;
-      &lt;img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/plate03/original-plate-03.jpg?raw=true" width="250" height="250"/&gt;
-&lt;/div&gt;
-
-&lt;div class="image-wrapper"&gt;
-    &lt;img src="https://github.com/Christie3Dawn/WEB-DuBois-Project/blob/master/images/DuBoisPlate27-2020-Election.png?raw=true" width="250" height="250"/&gt;
-&lt;/div&gt;
-
-&lt;div class="image-wrapper"&gt;
-  &lt;img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/plate27/original-plate-27.jpg?raw=true" width="250" height="250"/&gt;
-&lt;/div&gt;
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
